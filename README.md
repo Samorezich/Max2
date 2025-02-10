@@ -1,2 +1,3 @@
 # Max2
-NFT Progect
+NFT Project
+Start with new platform
